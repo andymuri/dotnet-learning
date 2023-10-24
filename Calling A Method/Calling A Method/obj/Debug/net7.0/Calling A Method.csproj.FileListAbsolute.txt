@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\dotnet-learning\Calling A Method\Calling A Method\bin\Debug\net7.0\Calling A Method.exe
+C:\Users\HP\source\repos\dotnet-learning\Calling A Method\Calling A Method\bin\Debug\net7.0\Calling A Method.deps.json
+C:\Users\HP\source\repos\dotnet-learning\Calling A Method\Calling A Method\bin\Debug\net7.0\Calling A Method.runtimeconfig.json
+C:\Users\HP\source\repos\dotnet-learning\Calling A Method\Calling A Method\bin\Debug\net7.0\Calling A Method.dll
+C:\Users\HP\source\repos\dotnet-learning\Calling A Method\Calling A Method\bin\Debug\net7.0\Calling A Method.pdb
+C:\Users\HP\source\repos\dotnet-learning\Calling A Method\Calling A Method\obj\Debug\net7.0\Calling A Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\dotnet-learning\Calling A Method\Calling A Method\obj\Debug\net7.0\Calling A Method.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\dotnet-learning\Calling A Method\Calling A Method\obj\Debug\net7.0\Calling A Method.AssemblyInfo.cs
+C:\Users\HP\source\repos\dotnet-learning\Calling A Method\Calling A Method\obj\Debug\net7.0\Calling A Method.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\dotnet-learning\Calling A Method\Calling A Method\obj\Debug\net7.0\Calling A Method.dll
+C:\Users\HP\source\repos\dotnet-learning\Calling A Method\Calling A Method\obj\Debug\net7.0\refint\Calling A Method.dll
+C:\Users\HP\source\repos\dotnet-learning\Calling A Method\Calling A Method\obj\Debug\net7.0\Calling A Method.pdb
+C:\Users\HP\source\repos\dotnet-learning\Calling A Method\Calling A Method\obj\Debug\net7.0\Calling A Method.genruntimeconfig.cache
+C:\Users\HP\source\repos\dotnet-learning\Calling A Method\Calling A Method\obj\Debug\net7.0\ref\Calling A Method.dll

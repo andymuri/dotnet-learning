@@ -1,0 +1,4 @@
+C:\Users\HP\source\repos\dotnet-learning\Builtin String Methods\Builtin String Methods\obj\Debug\net7.0\Builtin String Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\dotnet-learning\Builtin String Methods\Builtin String Methods\obj\Debug\net7.0\Builtin String Methods.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\dotnet-learning\Builtin String Methods\Builtin String Methods\obj\Debug\net7.0\Builtin String Methods.AssemblyInfo.cs
+C:\Users\HP\source\repos\dotnet-learning\Builtin String Methods\Builtin String Methods\obj\Debug\net7.0\Builtin String Methods.csproj.CoreCompileInputs.cache
