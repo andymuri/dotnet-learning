@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Methods That Return Values/1.0.0": {
+        "runtime": {
+          "Methods That Return Values.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Methods That Return Values/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

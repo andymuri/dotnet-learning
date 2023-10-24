@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\dotnet-learning\Methods That Return Values\Methods That Return Values\bin\Debug\net7.0\Methods That Return Values.exe
+C:\Users\HP\source\repos\dotnet-learning\Methods That Return Values\Methods That Return Values\bin\Debug\net7.0\Methods That Return Values.deps.json
+C:\Users\HP\source\repos\dotnet-learning\Methods That Return Values\Methods That Return Values\bin\Debug\net7.0\Methods That Return Values.runtimeconfig.json
+C:\Users\HP\source\repos\dotnet-learning\Methods That Return Values\Methods That Return Values\bin\Debug\net7.0\Methods That Return Values.dll
+C:\Users\HP\source\repos\dotnet-learning\Methods That Return Values\Methods That Return Values\bin\Debug\net7.0\Methods That Return Values.pdb
+C:\Users\HP\source\repos\dotnet-learning\Methods That Return Values\Methods That Return Values\obj\Debug\net7.0\Methods That Return Values.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\dotnet-learning\Methods That Return Values\Methods That Return Values\obj\Debug\net7.0\Methods That Return Values.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\dotnet-learning\Methods That Return Values\Methods That Return Values\obj\Debug\net7.0\Methods That Return Values.AssemblyInfo.cs
+C:\Users\HP\source\repos\dotnet-learning\Methods That Return Values\Methods That Return Values\obj\Debug\net7.0\Methods That Return Values.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\dotnet-learning\Methods That Return Values\Methods That Return Values\obj\Debug\net7.0\Methods That Return Values.dll
+C:\Users\HP\source\repos\dotnet-learning\Methods That Return Values\Methods That Return Values\obj\Debug\net7.0\refint\Methods That Return Values.dll
+C:\Users\HP\source\repos\dotnet-learning\Methods That Return Values\Methods That Return Values\obj\Debug\net7.0\Methods That Return Values.pdb
+C:\Users\HP\source\repos\dotnet-learning\Methods That Return Values\Methods That Return Values\obj\Debug\net7.0\Methods That Return Values.genruntimeconfig.cache
+C:\Users\HP\source\repos\dotnet-learning\Methods That Return Values\Methods That Return Values\obj\Debug\net7.0\ref\Methods That Return Values.dll
